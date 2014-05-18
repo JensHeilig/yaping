@@ -1,0 +1,9 @@
+Yet Another Ping utility
+========================
+
+Pings a host with settable interval time and settable payload size.
+
+Special about this version: The payload returned by the pinged client is
+verified against the payload sent.
+
+Written in C#, runs in Windows XP and later
